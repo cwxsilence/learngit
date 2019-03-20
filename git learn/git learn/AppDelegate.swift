@@ -1,0 +1,25 @@
+//
+//  AppDelegate.swift
+//  git learn
+//
+//  Created by 蔡文秀 on 2019/3/20.
+//  Copyright © 2019 蔡文秀. All rights reserved.
+//
+
+
+import Cocoa
+
+@NSApplicationMain
+class AppDelegate: NSObject, NSApplicationDelegate {
+    
+    
+    func applicationDidFinishLaunching(_ aNotification: Notification) {
+        // Insert code here to initialize your application
+    }
+    
+    func applicationWillTerminate(_ aNotification: Notification) {
+        // Insert code here to tear down your application
+    }
+    
+    
+}
